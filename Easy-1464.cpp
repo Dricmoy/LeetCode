@@ -17,3 +17,7 @@ public:
         return (i-1) * (j-1);
     }
 };
+
+
+//find the max element make it j, get rid of it if there's more than one instance, second as i
+//otherwise get rid of it, and take the next possible max element as i. 
